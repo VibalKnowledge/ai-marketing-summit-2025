@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // --- Confetti Generation Helper ---
   function triggerSimulatedConfetti() {
-    const confettiColors = ['#a855f7', '#3b82f6', '#10b981', '#f59e0b', '#ec4899'];
+    const confettiColors = ['#10b981', '#2dd4bf', '#34d399', '#059669', '#a7f3d0'];
     
     for (let i = 0; i < 60; i++) {
       const confetti = document.createElement('div');
